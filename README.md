@@ -36,5 +36,5 @@ Start web server
 
 Open a browser and go to URL
 
-    http://<IP>:5000                            => Welcome
-    http://<IP>:5000/how%20are%20you            => I am good, how about you?
+    http://<IP>:9000                            => Your Application is running Fine............
+    http://<IP>:9000/v1           				=> V1 of Application.
